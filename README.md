@@ -4,6 +4,7 @@ This is the assignment for "Demographic-Data-Analyzer". Instructions for buildin
 This ("demographic_data_analyzer") is a solution for the **Demographic-Data-Analyzerr** project in the [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course by FreeCodeCamp.
 
 ---
+
 ##📁 Project Description
 
 This project uses Pandas to analyze demographic data and extract useful insights from a dataset. The tasks involve:
