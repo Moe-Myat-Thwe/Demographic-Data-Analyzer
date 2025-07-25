@@ -9,19 +9,19 @@ This ("demographic_data_analyzer") is a solution for the **Demographic-Data-Anal
 
 This project uses Pandas to analyze demographic data and extract useful insights from a dataset. The tasks involve:
 
--Reading a CSV file
+- Reading a CSV file
 
--Cleaning and structuring the dataset
+- Cleaning and structuring the dataset
 
--Extracting and analyzing specific demographic information
+- Extracting and analyzing specific demographic information
 
--Performing calculations such as:
+- Performing calculations such as:
 
-  -Count totals and percentages
+  - Count totals and percentages
 
-  -Identify correlations between variables
+  - Identify correlations between variables
 
-  -Round values for clean output
+  - Round values for clean output
 
 ---
 
