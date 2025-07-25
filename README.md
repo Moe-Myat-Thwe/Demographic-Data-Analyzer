@@ -5,7 +5,7 @@ This ("demographic_data_analyzer") is a solution for the **Demographic-Data-Anal
 
 ---
 
-##📁 Project Description
+## 📁 Project Description
 
 This project uses Pandas to analyze demographic data and extract useful insights from a dataset. The tasks involve:
 
